@@ -3,8 +3,7 @@ import EventosVnw from './img/EventosVnw.png';
 import styled from 'styled-components'
 
 const Event = styled.div`
-
-  margin-top:1180px;
+  margin-top:100px;
   margin-bottom:40px;
 `;
 const TextEvent = styled.h2`
