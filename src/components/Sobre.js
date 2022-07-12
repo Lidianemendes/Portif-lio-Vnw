@@ -19,8 +19,6 @@ opacity: 1;
 `;
 
 const Text = styled.section`
-
-text-align:center;
 width:50vw;
 margin-left:320px;
 margin-top:52px;
