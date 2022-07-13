@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portif-lio-Vnw/static/css/main.e6c13ad2.css",
+    "main.js": "/Portif-lio-Vnw/static/js/main.44c0b2f3.js",
+    "static/media/fundoHeader.png": "/Portif-lio-Vnw/static/media/fundoHeader.06b99a1b2ae4cbd3a6cd.png",
+    "static/media/EventosVnw.png": "/Portif-lio-Vnw/static/media/EventosVnw.09b72f6a904abfc49d17.png",
+    "static/media/fundoFooter.png": "/Portif-lio-Vnw/static/media/fundoFooter.c307dc3114cb08655aea.png",
+    "static/media/TecMain.png": "/Portif-lio-Vnw/static/media/TecMain.5dfa503ffa239493a1a3.png",
+    "static/media/MarinaTiago-Agente-de-Estratégia.jpg": "/Portif-lio-Vnw/static/media/MarinaTiago-Agente-de-Estratégia.cc1e445aebc48efdf0d4.jpg",
+    "static/media/AlineNogueira-Agente-Socioemocional.jpg": "/Portif-lio-Vnw/static/media/AlineNogueira-Agente-Socioemocional.633338c3efc70a21fbf1.jpg",
+    "static/media/MarlonYuri-Instrutor-Técnico.jpg": "/Portif-lio-Vnw/static/media/MarlonYuri-Instrutor-Técnico.0503105e63e0df8fe52a.jpg",
+    "static/media/ThaisBrait-Voluntarios.jpg": "/Portif-lio-Vnw/static/media/ThaisBrait-Voluntarios.8544b43fa26970b114b6.jpg",
+    "static/media/MarianaCorrea-Coordenadora-Administrativa.jpg": "/Portif-lio-Vnw/static/media/MarianaCorrea-Coordenadora-Administrativa.2c91308d0ede3d375900.jpg",
+    "static/media/PaulaMisan-Voluntarios.jpg": "/Portif-lio-Vnw/static/media/PaulaMisan-Voluntarios.4322e19f20e368b0b1da.jpg",
+    "static/media/HugoSabino-Voluntarios.jpg": "/Portif-lio-Vnw/static/media/HugoSabino-Voluntarios.25f828780d33e2af921f.jpg",
+    "static/media/PriscilaTufani-Agente-de-Estratégia.jpg": "/Portif-lio-Vnw/static/media/PriscilaTufani-Agente-de-Estratégia.39ad350d43c516709f82.jpg",
+    "static/media/CrisPrazeres-Coordenadora-Executiva.jpg": "/Portif-lio-Vnw/static/media/CrisPrazeres-Coordenadora-Executiva.4b00306e3b81fa24926c.jpg",
+    "static/media/KarynneMoreira-Facilitadora-Técnica.jpg": "/Portif-lio-Vnw/static/media/KarynneMoreira-Facilitadora-Técnica.94d241ad0ddad207bef2.jpg",
+    "static/media/LuziaMerlim-Agente-Socioemocional.jpg": "/Portif-lio-Vnw/static/media/LuziaMerlim-Agente-Socioemocional.45387f86537415d28fb5.jpg",
+    "static/media/AndreaMarinho-Psicóloga.jpg": "/Portif-lio-Vnw/static/media/AndreaMarinho-Psicóloga.c3e7782cce8ad59a8f24.jpg",
+    "static/media/KarlaMelo-Voluntarios.jpg": "/Portif-lio-Vnw/static/media/KarlaMelo-Voluntarios.5fde0b6a676d32035652.jpg",
+    "static/media/AlineFroes-CEO.jpg": "/Portif-lio-Vnw/static/media/AlineFroes-CEO.5df58ea93b667b34e098.jpg",
+    "static/media/DimitriDuque-Voluntarios.jpg": "/Portif-lio-Vnw/static/media/DimitriDuque-Voluntarios.6953dde0c922f16682fc.jpg",
+    "index.html": "/Portif-lio-Vnw/index.html",
+    "main.e6c13ad2.css.map": "/Portif-lio-Vnw/static/css/main.e6c13ad2.css.map",
+    "main.44c0b2f3.js.map": "/Portif-lio-Vnw/static/js/main.44c0b2f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.44c0b2f3.js"
+  ]
+}
